@@ -1,4 +1,4 @@
-package Lec_16_Backtracking;
+package Lec_16_July_21_Backtracking;
 
 public class rat_in_maze {
     static boolean ratInMaze(int i, int j, int row, int col, int[][] maze){
